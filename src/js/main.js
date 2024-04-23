@@ -112,7 +112,7 @@ const person = {
         cityCoder: "Medellin",
         addressCoder: "cr 50a # 58-08",
     },
-    email: "marlono1naranjo@gmail.com"
+    emailCoder: "marlono1naranjo@gmail.com"
 }
 
 //forma manual 
