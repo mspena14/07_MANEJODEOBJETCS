@@ -116,13 +116,15 @@ const person = {
 }
 
 //forma manual 
-
 const nameM = person.nameCoder
 const documentIdM = person.indentificacionNumberCoder
 const emailM = person.emailCoder
 
-//forma dinamica
+console.log(nameM);
+console.log(documentIdM);
+console.log(emailM);
 
+//forma dinamica
 const {
     nameCoder: nombre,
     lastNameCoder: apellido,
